@@ -1,0 +1,1 @@
+here in order to run the programs correctly , we have to put all the certifications,key files in the same directory, then we have to use the Cmd for running those 2 java files.
